@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on certification in data science.
-- 🌱 I’m currently learning to become Scala.
+- 🌱 I’m currently learning Scala.
 - 👯 I’m looking to collaborate on R, SQL and python projects.
 - 📫 How to reach me:  https://www.linkedin.com/in/jeffreyohene/
 <!--
