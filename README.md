@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there here's Jeff, a senior R brogrammer. 👋 
 - 🔭 I’m currently working on certification in data science.
-- 🌱 I’m currently learning Scala.
-- 👯 I’m looking to collaborate on R, SQL and python projects.
-- 📫 How to reach me:  https://www.linkedin.com/in/jeffreyohene/
+- 🌱 I’m learning Scala & Julia atm.
+- 👯 I’d be more than happy to collaborate on R, SQL and python projects.
+- 📫 You can reach me here [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
