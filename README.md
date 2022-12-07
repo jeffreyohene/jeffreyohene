@@ -1,8 +1,10 @@
-### Hi there here's Jeff, a senior R brogrammer. 👋 
+### Hi there, here's Jeff, a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
 - 🔭 I’m currently working on certification in data science.
 - 🌱 I’m learning Scala & Julia atm.
 - 👯 I’d be more than happy to collaborate on R, SQL and python projects.
 - 📫 You can reach me here on [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
+- ⚡ Fun fact: Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
+- I speak English | Je parle français | Ich spreche sehr gutes Deutsch | Eu falo um pouco de portugues tambem
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
