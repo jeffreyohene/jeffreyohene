@@ -3,6 +3,7 @@
 - 🌱 I’m learning Scala & Julia atm.
 - 👯 I’d be more than happy to collaborate on R, SQL and python projects.
 - 📫 You can reach me here on [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
+- I am also on [Twitter]
 - ⚡ Fun fact: Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
 - I speak English | Je parle français | Ich spreche sehr gutes Deutsch | Eu falo um pouco de portugues tambem
 <!--
