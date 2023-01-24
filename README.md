@@ -1,5 +1,5 @@
 ### Hi there, stranger! Bold of you to visit this page, here's Jeff, a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
-- 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game.
+- 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game and want to enter the field professionally.
 - 💬 Ask me about a team in football and we will spend the next like 3 hours debating tactics.
 - 🌱 I’m learning Scala & Julia atm.
 - 👯 I’d be more than happy to collaborate on R, SQL and python projects (if they're interesting projects).
