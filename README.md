@@ -1,10 +1,11 @@
-### Hi there, here's Jeff, a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
-- 🔭 I’m currently working on certification in data science.
+### Hi there, stranger! Bold of you to visit this page, here's Jeff, a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
+- 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game.
+- 💬 Ask me about a team in football and we will spend the next like 3 hours debating tactics.
 - 🌱 I’m learning Scala & Julia atm.
-- 👯 I’d be more than happy to collaborate on R, SQL and python projects.
+- 👯 I’d be more than happy to collaborate on R, SQL and python projects (if they're interesting projects).
 - 📫 You can reach me here on [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
-- I am also on [Twitter](twitter.com/8mezzala)
-- ⚡ Fun fact: Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
+- I am also on [Twitter](twitter.com/jeffrstats)
+- ⚡ Fun fact: I am a Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
 - I speak English | Je parle français | Ich spreche sehr gutes Deutsch | Eu falo um pouco de portugues tambem
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
