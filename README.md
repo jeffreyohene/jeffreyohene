@@ -7,6 +7,7 @@
 - 💬 I am also on [Twitter](https://twitter.com/jeffrstats)
 - ⚡ Fun fact: I am a Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
 - I speak English | Je parle français | Ich spreche sehr gutes Deutsch | Eu falo um pouco de portugues tambem
+- <img src="{BadgeURLHere}" /> or ![image]({https://www.linkedin.com/in/jeffreyohene/})
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
