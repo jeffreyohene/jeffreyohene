@@ -1,12 +1,7 @@
 ### Hi there, stranger! Bold of you to come here.. My name is Jeff, a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
-- 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game and want to enter the field professionally.
-- 💬 Ask me about a team in football and we will spend the next like 3 hours debating tactics.
-- 🌱 I’m learning Scala & Julia atm.
-- 👯 I’d be more than happy to collaborate on R, SQL and python projects (if they're interesting projects).
+- 👯 Open to opportunities.
 - 📫 You can reach me here on [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
 - 💬 I am also on [Twitter](https://twitter.com/jeffrstats)
-- ⚡ Fun fact: I am a Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
-- I speak English | Je parle français | Ich spreche sehr gutes Deutsch | Eu falo um pouco de portugues tambem
 
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game and want to enter the field professionally.
+- 💬 Ask me about a team in football and we will spend the next like 3 hours debating tactics.
+- 🌱 I’m learning Scala & Julia atm.
+- ⚡ Fun fact: I am a Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
+- I speak English | Je parle français | Ich spreche sehr gutes Deutsch | Eu falo um pouco de portugues tambem
 -->
