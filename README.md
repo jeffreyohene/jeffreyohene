@@ -21,6 +21,7 @@
 - 😄 I speak English & German very fluently and I am an intermediate French speaker. I also speak a little Portuguese & Norwegian.
 </p>
 
+<br> </br>
 
 ![jeff's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyohene&show_icons=true&include_all_commits=true&theme=radical)
 
