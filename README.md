@@ -22,7 +22,7 @@
    
 - 👯 Open to opportunities.
 - 🌱 I’m currently working on becoming a data engineer. I’m also learning Scala & Julia.
-- 📫 How to reach me: [@jeffrstats](https://twitter.com/jeffrstats)
+- 📫 Mailbox: jeff.ohene10@gmail.com
 - 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game and want to enter the field professionally.
 - 💬 Ask me about a team in football and we will spend the next like 3 hours debating tactics.
 - ⚡ Fun fact: I love the Dobermann Pinscher breed and I am an Accra Hearts of Oak fan, first and foremost,  then a Real Madrid & Arsenal fan.
