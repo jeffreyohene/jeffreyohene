@@ -39,11 +39,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
-- 👯 Open to opportunities.
-- 📫 You can reach me here on [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
-- 💬 I am also on [Twitter](https://twitter.com/jeffrstats)
-
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
