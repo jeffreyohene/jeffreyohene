@@ -12,6 +12,14 @@
 <br/>
 <p>
 
+
+![jeff's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyohene&show_icons=true&include_all_commits=true&theme=radical)
+
+![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact&theme=radical)
+
+[![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
+   
 - 👯 Open to opportunities.
 - 🌱 I’m currently working on becoming a data engineer. I’m also learning Scala & Julia.
 - 📫 How to reach me: [@jeffrstats](https://twitter.com/jeffrstats)
@@ -22,12 +30,6 @@
 </p>
 
 <br> </br>
-
-![jeff's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyohene&show_icons=true&include_all_commits=true&theme=radical)
-
-![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact&theme=radical)
-
-[![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Football articles/posts
 <!-- BLOG-POST-LIST:START -->
