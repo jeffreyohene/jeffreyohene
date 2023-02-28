@@ -13,7 +13,7 @@
 <p>
 
 - 👯 Open to opportunities.
-- 🌱 I’m currently working on becoming a data engineer
+- 🌱 I’m currently working on becoming a data engineer. I’m also learning Scala & Julia.
 - 📫 How to reach me: [@jeffrstats](https://twitter.com/jeffrstats)
 - 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game and want to enter the field professionally.
 - 💬 Ask me about a team in football and we will spend the next like 3 hours debating tactics.
@@ -34,9 +34,6 @@
 - [The New Maradona](https://jeffrey10.medium.com/the-new-maradona-586653e173e8)
 - [Gabriel Martinelli](https://jeffrey10.medium.com/player-profile-gabriel-martinelli-37099dc089f7)
 - [Premier League Goalkeeper Performance](https://jeffrey10.medium.com/analysis-of-goalkeeper-performance-in-the-english-premier-league-a0d45036598b)
-- [AngularJS vs Angular](https://dev.to/this-is-angular/angularjs-vs-angular-1gh6)
-- [How GitHub is Improving Developer Experience](https://dev.to/this-is-learning/how-github-is-improving-developer-experience-8jj)
-- [Why and How we migrated to Nx from Angular CLI](https://dev.to/this-is-angular/why-and-how-we-migrated-to-nx-from-angular-cli-5a61)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -47,20 +44,4 @@
 
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on refining my football analytics skills as I have a lot of passion and interest in the game and want to enter the field professionally.
-- 💬 Ask me about a team in football and we will spend the next like 3 hours debating tactics.
-- 🌱 I’m learning Scala & Julia atm.
-- ⚡ Fun fact: I am a Dobermann Pinscher enthusiast and Real Madrid & Arsenal fan.
-- I speak English | Je parle français | Ich spreche sehr gutes Deutsch | Eu falo um pouco de portugues tambem
 -->
