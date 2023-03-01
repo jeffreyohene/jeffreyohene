@@ -1,5 +1,9 @@
 ### Hi there, stranger! Bold of you to come here.. My name is [jeff](https://jeffreyohene.github.io), a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
 
+
+![:)](https://user-images.githubusercontent.com/103119258/222024507-8c132af6-5779-498a-9bca-b30e91f0f7b8.gif)
+
+
 <p>
 <a href="https://twitter.com/jeffrstats/">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
