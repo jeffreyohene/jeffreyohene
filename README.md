@@ -31,7 +31,6 @@
 - 😄 I speak English & German very fluently and I am an intermediate French speaker. I also speak a little Portuguese & Norwegian.
 </p>
 
-<br>![:)](https://user-images.githubusercontent.com/103119258/222024507-8c132af6-5779-498a-9bca-b30e91f0f7b8.gif) </br>
 
 # Football articles/posts
 <!-- BLOG-POST-LIST:START -->
@@ -40,6 +39,8 @@
 - [Premier League Goalkeeper Performance](https://jeffrey10.medium.com/analysis-of-goalkeeper-performance-in-the-english-premier-league-a0d45036598b)
 <!-- BLOG-POST-LIST:END -->
 
+
+<br>![](https://user-images.githubusercontent.com/103119258/222024507-8c132af6-5779-498a-9bca-b30e91f0f7b8.gif) </br>
 
 <!--
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
