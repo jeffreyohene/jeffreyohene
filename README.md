@@ -1,8 +1,5 @@
 ### Hi there, stranger! Bold of you to come here.. My name is [jeff](https://jeffreyohene.github.io), a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
 
-![](https://komarev.com/ghpvc/?username=jeffreyohene)
-![](https://komarev.com/ghpvc/?username=jeffreyohene&color=green)
-![](https://komarev.com/ghpvc/?username=jeffreyohene&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=jeffreyohene&label=PROFILE+VIEWS)
 ![:)](https://user-images.githubusercontent.com/103119258/222024507-8c132af6-5779-498a-9bca-b30e91f0f7b8.gif)
 
