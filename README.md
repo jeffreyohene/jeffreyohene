@@ -1,9 +1,6 @@
 ### Hi there, stranger! Bold of you to come here.. My name is [jeff](https://jeffreyohene.github.io), a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
 
 ![](https://komarev.com/ghpvc/?username=jeffreyohene&label=PROFILE+VIEWS)
-![:)](https://user-images.githubusercontent.com/103119258/222024507-8c132af6-5779-498a-9bca-b30e91f0f7b8.gif)
-
-
 
 <p>
 <a href="https://twitter.com/jeffrstats/">
@@ -34,7 +31,7 @@
 - 😄 I speak English & German very fluently and I am an intermediate French speaker. I also speak a little Portuguese & Norwegian.
 </p>
 
-<br> </br>
+<br>![:)](https://user-images.githubusercontent.com/103119258/222024507-8c132af6-5779-498a-9bca-b30e91f0f7b8.gif) </br>
 
 # Football articles/posts
 <!-- BLOG-POST-LIST:START -->
