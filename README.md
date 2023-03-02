@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jeffreyohene&label=PROFILE+VIEWS)
 
-### Hi there, stranger! Bold of you to come here.. My name is [jeff](https://jeffreyohene.github.io), a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
+### Hi there, stranger! Bold of you to come here.. My name is jeff, a Data and Statistical analyst and R, SQL & Python brogrammer. 👋 
 
 
 <p>
