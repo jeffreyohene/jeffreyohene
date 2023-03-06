@@ -21,6 +21,21 @@
 
 [![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
+   ### My technology stack:
+<p align="left" dir="auto">
+    <img align="center" src="images/R.png" alt="1" height="40" width="27" style="max-width: 100%;">
+    <img align="center" src="images/python.png" alt="1" height="45" width="45" style="max-width: 100%;">
+    <img align="center" src="images/sql.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="images/tableau.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="images/ga4.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="images/google-tag-manager.jpg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="images/html.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="images/excel.png" alt="1" height="44" width="44" style="max-width: 100%;">
+    <img align="center" src="images/big_query.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="images/power_bi.jpg" alt="1" height="50" width="50" style="max-width: 100%;">
+</p>
+   
+   
    ### Connect with me:
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/jeffreyohene/" rel="nofollow"><img align="center" src="images/lnkdn.png" alt="1" height="40" width="40" style="max-width: 100%;"></a>
