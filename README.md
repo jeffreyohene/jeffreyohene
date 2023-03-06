@@ -7,7 +7,7 @@
     <img align="center" src="images/Rlogo.svg" alt="1" height="50" width="50" style="max-width: 100%;">
     <img align="center" src="images/python.png" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/excel.png" alt="1" height="44" width="44" style="max-width: 100%;">
-    <img align="center" src="images/postgresql.svg" alt="1" height="40" width="65" style="max-width: 100%;">
+    <img align="center" src="images/postgre.svg" alt="1" height="40" width="65" style="max-width: 100%;">
     <img align="center" src="images/Tableau.svg" alt="1" height="40" width="50" style="max-width: 100%;">
     <img align="center" src="images/ga.svg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="images/html5.svg" alt="1" height="45" width="55" style="max-width: 100%;">
