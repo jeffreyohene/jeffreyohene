@@ -25,7 +25,7 @@
    
  ### My technology stack:
 <p align="left" dir="auto">
-    <img align="center" src="images/Rlogo.svg" alt="1" height="40" width="27" style="max-width: 100%;">
+    <img align="center" src="images/Rlogo.svg" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/python.png" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/postgresql.svg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="images/Tableau.svg" alt="1" height="40" width="40" style="max-width: 100%;">
