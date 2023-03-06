@@ -21,6 +21,12 @@
 
 [![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
+   ### Connect with me:
+<p align="left" dir="auto">
+<a href="https://www.linkedin.com/in/jeffreyohene/" rel="nofollow"><img align="center" src="images/lnkdn.png" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://www.twitter.com/jeffrstats/" rel="nofollow"><img align="center" src="images/twt.png" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a a rel="noopener" data-link="mailto:jeff.ohene10@gmail.com" href="mailto:jeff.ohene10@gmail.com" target="_top"><img align="center" src="images/m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
+</p>
    
 - 👯 Open to opportunities.
 - 🌱 I’m currently working on becoming a data engineer. I’m also learning Scala & Julia.
