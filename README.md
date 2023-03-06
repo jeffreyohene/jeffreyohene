@@ -4,7 +4,7 @@
 
  ### My technology stack:
 <p align="left" dir="auto">
-    <img align="center" src="images/Rlogo.svg" alt="1" height="60" width="60" style="max-width: 100%;">
+    <img align="center" src="images/Rlogo.svg" alt="1" height="50" width="50" style="max-width: 100%;">
     <img align="center" src="images/python.png" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/excel.png" alt="1" height="44" width="44" style="max-width: 100%;">
     <img align="center" src="images/postgresql.svg" alt="1" height="40" width="65" style="max-width: 100%;">
