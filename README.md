@@ -2,13 +2,6 @@
 
 ### Well hello there stranger, my name is jeff ⭐
 
-
-![jeff's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyohene&show_icons=true&include_all_commits=true)
-![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact)
-
-[![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
  ### My technology stack:
 <p align="left" dir="auto">
     <img align="center" src="images/Rlogo.svg" alt="1" height="60" width="60" style="max-width: 100%;">
@@ -20,6 +13,12 @@
     <img align="center" src="images/html5.svg" alt="1" height="45" width="55" style="max-width: 100%;">
     <img align="center" src="images/big_query.png" alt="1" height="45" width="95" style="max-width: 100%;">
     <img align="center" src="images/power_bi.svg" alt="1" height="45" width="45" style="max-width: 100%;">
+
+![jeff's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyohene&show_icons=true&include_all_commits=true)
+![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact)
+
+[![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 - 👯 Open to opportunities.
 - 🌱 I’m currently working on becoming a data engineer. I’m also learning Scala & Julia.
