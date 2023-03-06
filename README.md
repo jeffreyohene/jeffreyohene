@@ -51,11 +51,11 @@
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    ### My technology stack:
 <p align="left" dir="auto">
-    <img align="center" src="images/R.svg" alt="1" height="40" width="27" style="max-width: 100%;">
+    <img align="center" src="images/R.svg" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/python.png" alt="1" height="45" width="45" style="max-width: 100%;">
-    <img align="center" src="images/sql.png" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="images/tableau.png" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="images/ga4.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="images/postgresql.svg" alt="1" height="45" width="45" style="max-width: 100%;">
+    <img align="center" src="images/Tableau.svg" alt="1" height="45" width="45" style="max-width: 100%;">
+    <img align="center" src="images/ga4.svg" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/google-tag-manager.jpg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="images/html.png" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="images/excel.png" alt="1" height="44" width="44" style="max-width: 100%;">
