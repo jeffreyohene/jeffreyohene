@@ -51,7 +51,7 @@
 **jeffreyohene/jeffreyohene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    ### My technology stack:
 <p align="left" dir="auto">
-    <img align="center" src="images/R.svg" alt="1" height="45" width="45" style="max-width: 100%;">
+    <img align="center" src="images/R.svg" alt="1" height="60" width="60" style="max-width: 100%;">
     <img align="center" src="images/python.png" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/postgresql.svg" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="images/Tableau.svg" alt="1" height="45" width="45" style="max-width: 100%;">
