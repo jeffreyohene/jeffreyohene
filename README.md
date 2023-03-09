@@ -2,6 +2,9 @@
 
 ### Well hello there stranger, my name is jeff ⭐
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyohene&" alt="jeffrey" /></p>
+
+<br>
  ### My technology stack:
 <p align="left" dir="auto">
     <img align="center" src="images/Rlogo.svg" alt="1" height="50" width="50" style="max-width: 100%;">
@@ -18,7 +21,6 @@
 ![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact)
 
 [![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyohene&" alt="jeffrey" /></p>
 
 
 - 👯 Open to opportunities.
