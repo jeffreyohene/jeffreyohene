@@ -18,6 +18,7 @@
 ![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact)
 
 [![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyohene&" alt="jeffrey" /></p>
 
 
 - 👯 Open to opportunities.
