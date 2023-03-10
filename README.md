@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jeffreyohene&label=PROFILE+VIEWS)
 
-### Well hello there stranger, my name is jeff 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+,+here+is+jeff⭐;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;I+am+a+Data+Analyst+and+a+Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+,+here+is+jeff⭐;+Welcome+to+my+profile!;I+have+over+3+years+of+programming+experience;I+am+alwayslways+learning+new+things+;I+am+a+Data+Analyst+and+a+Machine+Learning+enthusiast+;Enjoy!)](https://git.io/typing-svg)
 
  
 ![jeff's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyohene&show_icons=true&include_all_commits=true)
@@ -74,5 +73,5 @@
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p/>
-
+### Well hello there stranger, my name is jeff 
 -->
