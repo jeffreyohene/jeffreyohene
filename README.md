@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=jeffreyohene&label=PROFILE+VIEWS)
 
 ### Well hello there stranger, my name is jeff 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+,+here+is+jeff⭐;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;I+am+a+Data+Analyst+and+a+Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
-⭐
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+,+here+is+jeff⭐;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;I+am+a+Data+Analyst+and+a+Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
  
 ![jeff's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyohene&show_icons=true&include_all_commits=true)
 ![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact)
