@@ -79,5 +79,4 @@
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p/>
-![Metrics](https://github.com/jeffreyohene/jeffreyohene/blob/master/github-metrics.svg)
 -->
