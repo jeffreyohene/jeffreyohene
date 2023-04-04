@@ -50,7 +50,7 @@
 - [Gabriel Martinelli](https://jeffrey10.medium.com/player-profile-gabriel-martinelli-37099dc089f7)
 - [Premier League Goalkeeper Performance](https://jeffrey10.medium.com/analysis-of-goalkeeper-performance-in-the-english-premier-league-a0d45036598b)
 - [Shot Analysis before Arsenal v Manchester United 2022/2023 season](https://www.linkedin.com/posts/jeffreyohene_arsenal-manchesterunited-premierleague-activity-7022956611820228609-MMVT?utm_source=share&utm_medium=member_desktop)
- - [Best Dribblers in Europe's Top 5 Leagues](https://medium.com/p/55328907b05a](https://jeffrey10.medium.com/who-are-the-best-dribblers-in-europes-top-5-leagues-this-season-55328907b05a)
+ - [Best Dribblers in Europe's Top 5 Leagues](https://jeffrey10.medium.com/who-are-the-best-dribblers-in-europes-top-5-leagues-this-season-55328907b05a)
 <!-- BLOG-POST-LIST:END -->
 
 
