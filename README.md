@@ -26,7 +26,6 @@
     <img align="center" src="images/power_bi.svg" alt="1" height="45" width="45" style="max-width: 100%;">
  
 ![Snake animation](https://github.com/jeffreyohene/jeffreyohene/blob/output/github-contribution-grid-snake.svg)
-![jeff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeffreyohene&theme=github-compact)
 
 
 # Football articles/posts
