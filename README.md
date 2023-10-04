@@ -8,7 +8,7 @@
 ![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact)
 ![jeff's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jeffreyohene&layout=compact)
 
-### R & Python Developer | Data Analyst & Data Scientist | Digital Marketing Consultant
+### [R & Python Developer | Data Analyst & Data Scientist | Digital Marketing Consultant](https://www.linkedin.com/in/jeffreyohene/)
 
 I am a dedicated data professional with expertise in data analysis, R and Python programming, SQL development, and data visualization. I excel in statistical analysis, A/B testing, and machine learning, delivering tangible outcomes through my proven track record. Proficient in tools like pandas, tidyverse, scikit-learn, AWS, Azure, Snowflake, and BigQuery, I efficiently manipulate and analyze data to drive data-informed decisions. My passion for transforming complex data into actionable insights, coupled with my multilingual proficiency (English, German, French, and Portuguese), positions me as a valuable collaborator. I thrive on challenges and develop machine learning models using Python & R to enhance business outcomes. Whether through statistical analysis, machine learning, or data visualization, I am committed to delivering actionable information that empowers organizations to achieve their goals.
 
@@ -77,3 +77,8 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 - [DataCamp Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019020549461)
 - [DataCamp: Data Scientist Associate](https://www.datacamp.com/certificate/DSA0012251216621)
 - [Google Analytics Certification](https://skillshop.credential.net/32228f1d-a934-4ee9-bae6-5fa449f2255a)
+
+#### Connect!
+- [Send an E-mail!](jeffrey.ohene@aol.com)
+- [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
+- [Twitter](https://twitter.com/jeffrstats)
