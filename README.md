@@ -57,6 +57,6 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 - [Google Analytics Certification](https://skillshop.credential.net/32228f1d-a934-4ee9-bae6-5fa449f2255a)
 
 #### Connect!
-- [Send an E-mail!](jeffrey.ohene@aol.com)
+- [Send an E-mail!](mailto:jeffrey.ohene@aol.com)
 - [LinkedIn](https://www.linkedin.com/in/jeffreyohene/)
 - [Twitter](https://twitter.com/jeffrstats)
