@@ -40,7 +40,7 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 - Active Directory
 - Microsoft Office Suite
 
-**Geography and GIS:
+##### Geography and GIS:
 - ArcGIS, QGIS
 - GeoDa
 
