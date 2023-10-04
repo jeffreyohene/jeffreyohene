@@ -19,19 +19,13 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 - R
 - Stata
 - SAS
-- Jupyter Notebook or RStudio
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- Statsmodels
 - PostgreSQL & BigQuery
-- SEM software (AMOS, lavaan)
 - Git
 
 ##### Web Development:
 - HTML5, CSS3, JavaScript
 - React
-- Git, GitHub
+- GitHub
 
 ##### Digital Marketing:
 - Google Analytics, Google Tag Manager
@@ -75,4 +69,9 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 - Recreating Jon Snow's Ghost Map, an analysis with Python.
 
 #### Author of R packages📦
-- wikiscrapeR: An R package for scraping Wikipedia data.
+- [wikiscrapeR](https://github.com/jeffreyohene/wikiscrapeR): An R package for scraping Wikipedia data.
+
+#### Certifications
+- [DataCamp Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019020549461)
+- [DataCamp: Data Scientist Associate](https://www.datacamp.com/certificate/DSA0012251216621)
+- [Google Analytics Certification](https://skillshop.credential.net/32228f1d-a934-4ee9-bae6-5fa449f2255a)
