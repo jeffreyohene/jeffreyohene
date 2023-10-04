@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jeffreyohene&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi!;+Hallo!;+Salut!;+Here+is+jeff⭐;+Welcome+to+my+profile!;+Wilkommen+auf+meinem+Profil!;Bienvenue+sur+mon+profil!;I+am+a+Data+Analyst+with+over+3+years+of+programming+experience.;I+am+always+learning+new+things.+;You+can+find+my+portfolio+projects+in+my+repos.;I+would+love+your+feedback+or+questions+and+suggestions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi!;+Hallo!;+Salut!;+Here+is+jeff⭐;+Welcome+to+my+profile!;+Wilkommen+auf+meinem+Profil!;Bienvenue+sur+mon+profil!;I+am+a+Data+Analyst+with+over+4+years+of+programming+experience.;I+am+always+learning+new+things.+;You+can+find+my+portfolio+projects+in+my+repos.;I+would+love+your+feedback+or+questions+and+suggestions!)](https://git.io/typing-svg)
 
 
 
@@ -21,28 +21,6 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 - SAS
 - PostgreSQL & BigQuery
 - Git
-
-##### Web Development:
-- HTML5, CSS3, JavaScript
-- React
-- GitHub
-
-##### Digital Marketing:
-- Google Analytics, Google Tag Manager
-- Google Ads, Facebook Business Manager
-- SEO tools (SEMrush, Ahrefs, Moz)
-- Marketing automation tools (HubSpot)
-
-##### IT Support:
-- Endpoint Manager, SCCM
-- TeamViewer
-- Linux
-- Active Directory
-- Microsoft Office Suite
-
-##### Geography and GIS:
-- ArcGIS, QGIS
-- GeoDa
 
 #### LANGUAGES
 - Native Speaker: English
