@@ -8,7 +8,7 @@
 ![jeff's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyohene&layout=compact)
 ![jeff's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jeffreyohene&layout=compact)
 
-### R & Python Developer | Data Analyst & Data Scientist | BudWeb Developer | Digital Marketing Consultant | R Package Author 📦
+### R & Python Developer | Data Analyst & Data Scientist | Digital Marketing Consultant
 
 I am a dedicated data professional with expertise in data analysis, R and Python programming, SQL development, and data visualization. I excel in statistical analysis, A/B testing, and machine learning, delivering tangible outcomes through my proven track record. Proficient in tools like pandas, tidyverse, scikit-learn, AWS, Azure, Snowflake, and BigQuery, I efficiently manipulate and analyze data to drive data-informed decisions. My passion for transforming complex data into actionable insights, coupled with my multilingual proficiency (English, German, French, and Portuguese), positions me as a valuable collaborator. I thrive on challenges and develop machine learning models using Python & R to enhance business outcomes. Whether through statistical analysis, machine learning, or data visualization, I am committed to delivering actionable information that empowers organizations to achieve their goals.
 
@@ -53,23 +53,25 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 #### PROJECTS
 
 ##### Data Analysis & Data Science:
-- An Analysis of the World's BRT Systems, an analysis with R.
-- What Your Heart Rate is Telling You, an analysis with R.
-- A Visual History of Nobel Prize Winners, an analysis with R.
-- An Analysis of International Debt Statistics with SQL.
-- Kidney Stones and the Simpson's Paradox, an analysis with R.
-- Predicting Movie Similarity using Movie Summaries, an analysis with Python.
-- New York Uber Rides, an analysis with R.
-- COVID-19: From an epidemic to a global pandemic, an analysis with R.
-- Dr. Semmelweis and the Discovery of Handwashing, an analysis with R.
-- Which Debts Are Worth a Bank's Effort? An analysis with Python.
-- Most Important Characters in Game of Thrones. An analysis with Python.
-- Heart Disease & Potential Risk Factors, an analysis with R.
-- The GitHub History of Scala Language, an analysis with Python.
-- Recreating Jon Snow's Ghost Map, an analysis with Python.
+- [An Analysis of the World's BRT Systems](https://github.com/jeffreyohene/An-Analysis-of-the-World-s-BRT-Systems), an analysis with R.
+- [What Your Heart Rate is Telling You](https://github.com/jeffreyohene/What-Your-Heart-Rate-Is-Telling-You), an analysis with R.
+- [A Visual History of Nobel Prize Winners](https://github.com/jeffreyohene/A-Visual-History-of-Nobel-Prize-Winners), an analysis with R.
+- [An Analysis of International Debt Statistics](https://github.com/jeffreyohene/Analysis-of-International-Debt-Statistics-with-SQL), with SQL.
+- [Kidney Stones and the Simpson's Paradox](https://github.com/jeffreyohene/Kidney-Stones), an analysis with R.
+- [Predicting Movie Similarity using Movie Summaries](https://github.com/jeffreyohene/Machine-Learning-Projects/tree/main/Predicting%20Movie%20Similarity%20Using%20Movie%20Summaries), an analysis with Python.
+- [New York Uber Rides](https://github.com/jeffreyohene/An-Analysis-of-New-York-Uber-Trips), an analysis with R.
+- [COVID-19: From an epidemic to a global pandemic](https://github.com/jeffreyohene/COVID-19), an analysis with R.
+- [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/jeffreyohene/The-Discovery-of-Handwashing), an analysis with R.
+- [Which Debts Are Worth a Bank's Effort?](https://github.com/jeffreyohene/Which-Debts-Are-Worth-A-Bank-s-Effort) An analysis with Python.
+- [NYC Public School Test Results](https://github.com/jeffreyohene/Analyzing-NYC-Public-School-Test-Result-Scores-with-SQL), an analysis with SQL
+- [Most Important Characters in Game of Thrones.](https://github.com/jeffreyohene/An-Analysis-of-New-York-Uber-Trips) An analysis with Python.
+- [Heart Disease & Potential Risk Factors](https://github.com/jeffreyohene/Heart-Disease-Potential-Risk-Factors-), an analysis with R.
+- [The GitHub History of Scala Language](https://github.com/jeffreyohene/The-Github-History-of-Scala-Language), an analysis with Python.
+- [Recreating Jon Snow's Ghost Map](https://github.com/jeffreyohene/Jon-Snow-s-Ghost-Map), an analysis with Python.
 
-#### Author of R packages📦
+#### 📦 R packages authored:
 - [wikiscrapeR](https://github.com/jeffreyohene/wikiscrapeR): An R package for scraping Wikipedia data.
+- [ghanapaRliament](https://github.com/jeffreyohene/ghanaparliament): An R package for visualizing Ghana's parliament seats by political party.
 
 #### Certifications
 - [DataCamp Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019020549461)
