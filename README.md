@@ -25,6 +25,7 @@ I am a dedicated data professional with expertise in data analysis, R and Python
 #### 📦 R Packages Authored:
 - [wikiscrapeR](https://github.com/jeffreyohene/wikiscrapeR): An R package for scraping Wikipedia data.
 - [ghanapaRliament](https://github.com/jeffreyohene/ghanaparliament): An R package for visualizing Ghana's parliament seats by political party.
+- [kickR](https://github.com/jeffreyohene/kickR): An R package for scraping FBRef data.
 
 #### LANGUAGES SPOKEN
 - Native Speaker: English
